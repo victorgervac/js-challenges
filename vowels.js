@@ -11,5 +11,6 @@ function getWord(str){
         console.log("no vowels");
     }
 }
+
 // Bonus:
 // Return the vowels used and the number of times it was used. 
